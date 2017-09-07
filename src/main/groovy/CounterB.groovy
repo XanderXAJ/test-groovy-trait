@@ -1,0 +1,1 @@
+class CounterB implements CountTrait {}
